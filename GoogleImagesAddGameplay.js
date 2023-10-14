@@ -6,7 +6,7 @@
 
 // This script adds a button to add "gameplay" to a Google image search
 // It does nothing if the query already ends with "gameplay"
-// It might break in the future; there's absolutely no warranty to this
+// It might break in the future; there's absolutely no warranty to this script
 
 if (document.URL.includes("google.com") && document.URL.includes("tbm=isch")) {
   var searchbar = document.getElementById("REsRA");
