@@ -1,2 +1,2 @@
 # oilape
-Some Greasemonkey scripts
+Some Greasemonkey scripts of mine.
