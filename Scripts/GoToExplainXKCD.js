@@ -38,7 +38,6 @@ if (document.URL.includes("xkcd.com") && !document.URL.includes("explainxkcd")) 
     btn.addEventListener("click", () => {
       window.open(current.join(""), '_blank').focus()
     })
-    console.log(current.join(""));
   }
 
   function isNumeric(num){
