@@ -4,11 +4,11 @@
 // @grant    none
 // ==/UserScript==
 
-// This script writes the title and content of a Reddit post (old reddit only) to a blank page
-// A single image post will retain its image; a gallery post will retain the currently visible image
+// This script adds a button to write the title and content of a Reddit post (old reddit only) to a blank page.
+// A single image post will retain its image; a gallery post will retain the currently visible image,
 // or the gallery itself if currently visible, but it will not be interactive.
-// The current webpage is kept, meaning that to go back, you reload the page
-// This script might break in the future and there is absolutely no waranty to its functionality
+// The current webpage is kept, meaning that to go back, you reload the page.
+// This script might break in the future and there is absolutely no waranty to its functionality.
 
 function simpleRead() {
   var innerH = document.querySelector(".expando").innerHTML;
