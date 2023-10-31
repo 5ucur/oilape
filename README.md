@@ -1,9 +1,10 @@
 # oily-simian
 Some Greasemonkey scripts of mine.
 
-Any of them might break at any time in the future, and there's absolutely no warranty for any script's functionality. They worked when I uploaded them, they might break the next hour even. I'm mainly uploading them here as a backup, as I don't consider them worthy of sharing on any Greasemonkey script sharing page. If you decide to upload them somewhere, a link back or crediting me would be appreciated.
+Any of them might break at any time in the future, and there's absolutely no warranty for any script's functionality. They worked when I uploaded them, they might break the next hour even. I'm mainly uploading them here as a backup, as I don't consider them worthy of sharing on any Greasemonkey script sharing page. If you decide to upload them somewhere, please link back here.
 
 ## Script list and descriptions (alphabetical order)
+Click on the name of a script to be taken directly to the file!
 
 - **[DrawShieldDrawCommand](/Scripts/DrawShieldDrawCommand.js)**
   - Adds the functionality of pressing `Ctrl + Enter` on the DrawShield create page to draw the coat of arms, instead of clicking the "Draw Shield" button.
