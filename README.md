@@ -9,6 +9,12 @@ Click on the name of a script to be taken directly to the file!
 - **[DrawShieldDrawCommand](/Scripts/DrawShieldDrawCommand.js)**
   - Adds the functionality of pressing `Ctrl + Enter` on the DrawShield create page to draw the coat of arms, instead of clicking the "Draw Shield" button.
   - Useful for higher productivity, letting you use your mouse less.
+- **[GNUTerryPratchett](/Scripts/GNUTerryPratchett.js)**
+  - Adds a footer to any site that has `GNU Terry Pratchett` in its headers (specifically `x-clacks-overhead`). Read more [here](http://gnuterrypratchett.com/) and [here](https://xclacksoverhead.org/). Read about Terry [here](https://en.wikipedia.org/wiki/Terry_Pratchett).
+  - Breaks on some pages, not displaying as a footer, so it's removable by simply clicking on it.
+  - Good for any fan of the man or his works. But it seems it breaks on *many* pages so I recommend against actually using this script.
+  - > "A man is not dead while his name is still spoken."           
+— Going Postal, Chapter 4 prologue [](GNU_Terry_Pratchett)
 - **[GoogleFocusSearchbarImagesVideos](/Scripts/GoogleFocusSearchbarImagesVideos.js)**
   - Adds the functionality of pressing `/` to focus the search bar in Image and Video searches, just like in the general "All" search.
   - Useful for quick search bar focusing while searching images or videos, in case you're used to using `/` like I am and don't feel like reaching for the mouse or furiously spamming (Shift +) Tab.
@@ -27,10 +33,5 @@ Click on the name of a script to be taken directly to the file!
 - **[YouTubeCustomSpeed](/Scripts/YouTubeCustomSpeed.js)**
   - Adds a button to YouTube, which adds a custom speed slider (1-5 range, 0.1 increments).
   - Useful for going through a video faster than what video controls let you.
-- **[GNUTerryPratchett](/Scripts/GNUTerryPratchett.js)**
-  - Adds a footer to any site that has `GNU Terry Pratchett` in its headers (specifically `x-clacks-overhead`). Read more [here](http://gnuterrypratchett.com/) and [here](https://xclacksoverhead.org/). Read about Terry [here](https://en.wikipedia.org/wiki/Terry_Pratchett).
-  - Breaks on some pages, not displaying as a footer, so it's removable by simply clicking on it.
-  - Good for any fan of the man or his works. But it seems it breaks on *many* pages so I recommend against actually using this script.
-  - > "A man is not dead while his name is still spoken."           
-— Going Postal, Chapter 4 prologue [](GNU_Terry_Pratchett)
+
   
