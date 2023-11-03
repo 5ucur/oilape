@@ -5,7 +5,7 @@
 // ==/UserScript==
 
 // This script adds a footer to every page that has "x-clacks-overhead: gnu terry pratchett"
-// in its headers, allowing for sites that include other people.
+// in its headers, allowing for sites that include other people. Breaks on some pages so it's removable on click.
 // Relies on a hack to get headers, might break in the future, absolutely no warranty to the script.
 
 var req = new XMLHttpRequest();
