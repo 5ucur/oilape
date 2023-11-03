@@ -12,8 +12,7 @@ var req = new XMLHttpRequest();
 req.open('GET', document.location, true);
 req.send(null);
 req.onload = function() {
-	const headers = req.getAllResponseHeaders().toLowerCase();
-  console.log("a", headers);
+  const headers = req.getAllResponseHeaders().toLowerCase();
   if (headers.includes("x-clacks-overhead: gnu") && headers.includes("terry pratchett")) {
     var toInsert = document.createElement("div");
     toInsert.innerHTML = "GNU Terry Pratchett";
