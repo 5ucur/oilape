@@ -24,7 +24,8 @@ Click on the name of a script to be taken directly to the file!
 - **[GoToExplainXKCD](/Scripts/GoToExplainXKCD.js)**
   - Adds a button to [xkcd](https://xkcd.com/) comic pages that leads to the unofficial wiki for the page.
   - Useful when you just don't get Randall Munroe's latest illustration, and don't feel like reaching for the keyboard.
-- **[MinecraftWikiRedirect](/Scripts/MinecraftWikiRedirect.js)**
+- ~~**[MinecraftWikiRedirect](/Scripts/MinecraftWikiRedirect.js)**~~
+  - ***Do not use. Instead use [this extension](https://addons.mozilla.org/en-GB/firefox/addon/new-minecraft-wiki-redirect/) by lordofpipes ([source code](https://github.com/lordofpipes/new-minecraft-wiki-redirect)), which skips even loading the Fandom page.***
   - Autoredirects from a Fandom Minecraft wiki page, to a minecraft.wiki one. The Fandom page will still technically be visited.
   - Useful if you misclick or are linked to a Fandom page.
 - **[OldRedditJustThePost](/Scripts/OldRedditJustThePost.js)**
@@ -33,5 +34,3 @@ Click on the name of a script to be taken directly to the file!
 - **[YouTubeCustomSpeed](/Scripts/YouTubeCustomSpeed.js)**
   - Adds a button to YouTube, which adds a custom speed slider (1-5 range, 0.1 increments).
   - Useful for going through a video faster than what video controls let you.
-
-  
