@@ -10,7 +10,7 @@
 
 if (document.URL.includes("drawshield.net/create/index.html")) {
   document.addEventListener("keydown", (e) => {
-    if (e.ctrlKey && e.code == "Enter") {
+    if (e.ctrlKey && e.code.includes("Enter")) {
       document.getElementById("draw-btn").click()
     }
   });
