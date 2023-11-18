@@ -4,15 +4,20 @@ Some Greasemonkey scripts of mine.
 Any of them might break at any time in the future, and there's absolutely no warranty for any script's functionality. They worked when I uploaded them, they might break the next hour even. I'm mainly uploading them here as a backup, as I don't consider them worthy of sharing on any Greasemonkey script sharing page. If you decide to upload them somewhere, please link back here.
 
 ## Script list and descriptions (alphabetical order)
-Click on the name of a script to be taken directly to the file!
+Click on the name of a script to be taken directly to the file! Files with a strikethrough ~~like so~~ are deprecated or not recommended.
 
 - **[DrawShieldDrawCommand](/Scripts/DrawShieldDrawCommand.js)**
   - Adds the functionality of pressing `Ctrl + Enter` on the DrawShield create page to draw the coat of arms, instead of clicking the "Draw Shield" button.
   - Useful for higher productivity, letting you use your mouse less.
-- **[GNUTerryPratchett](/Scripts/GNUTerryPratchett.js)**
+  - See also the DrawShield [website](https://drawshield.net) and the DrawShield [GitHub organisation page](https://github.com/drawshield/).
+- **[DrawShieldFocusCatalogSearch](/Scripts/DrawShieldFocusCatalogSearch.js)**
+  - Autofocuses the search box on the DrawShield catalog page.
+  - Useful for higher productivity, letting you search the catalog immediately as well as bringing focus closer to the section headers so you can tab to them quickly, too.
+- ~~**[GNUTerryPratchett](/Scripts/GNUTerryPratchett.js)**~~
   - Adds a footer to any site that has `GNU Terry Pratchett` in its headers (specifically `x-clacks-overhead`). Read more [here](http://gnuterrypratchett.com/) and [here](https://xclacksoverhead.org/). Read about Terry [here](https://en.wikipedia.org/wiki/Terry_Pratchett).
+  - Inspired by some addons that were supposed to notify about these headers in some way, that I could not get to work.
   - Breaks on some pages, not displaying as a footer, so it's removable by simply clicking on it.
-  - Good for any fan of the man or his works. But it seems it breaks on *many* pages so **I recommend against actually using this script**.
+  - Good for any fan of the man or his works. But it seems it breaks on *many* pages so ***I recommend against actually using this script***.
   - > "A man is not dead while his name is still spoken."           
 — Going Postal, Chapter 4 prologue [](GNU_Terry_Pratchett)
 - **[GoogleFocusSearchbarImagesVideos](/Scripts/GoogleFocusSearchbarImagesVideos.js)**
@@ -29,7 +34,10 @@ Click on the name of a script to be taken directly to the file!
   - Autoredirects from a Fandom Minecraft wiki page, to a minecraft.wiki one. The Fandom page will still technically be visited.
   - Useful if you misclick or are linked to a Fandom page.
 - **[OldRedditJustThePost](/Scripts/OldRedditJustThePost.js)**
-  - Adds a button to write the title and content of a Reddit post (old reddit only) to a blank page. A single image post will retain its image; a gallery post will retain the currently visible image, or the gallery itself if currently visible, but it will not be interactive. The current URL is kept, meaning that to go back to normal view, you reload the page.
+  - Adds a button to write the title and content of a Reddit post (old reddit only) to a blank page.
+  - A single image post will retain its image.
+  - A gallery post will retain the currently visible image, or the gallery itself if currently visible, but it will not be interactive.
+  - The current URL is kept, meaning that to go back to normal view, you reload the page.
   - Useful for reading a larger post as the text can take up the whole page's width. The text is also larger.
 - **[YouTubeCustomSpeed](/Scripts/YouTubeCustomSpeed.js)**
   - Adds a button to YouTube, which adds a custom speed slider (1-5 range, 0.1 increments).
