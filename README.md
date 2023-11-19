@@ -13,6 +13,10 @@ Click on the name of a script to be taken directly to the file! Files with a str
 - **[DrawShieldFocusCatalogSearch](/Scripts/DrawShieldFocusCatalogSearch.js)**
   - Autofocuses the search box on the DrawShield catalog page.
   - Useful for higher productivity, letting you search the catalog immediately as well as bringing focus closer to the section headers so you can tab to them quickly, too.
+- **[DrawShieldGoToCatalog](/Scripts/DrawShieldGoToCatalog.js)**
+  - Adds the functionality of pressing F1 on the DrawShield create page to visit the Visual Catalog in a new tab.
+  - As above, useful for higher productivity, allowing you to visit the Visual Catalog without leaving the keyboard.
+  - Pair it with the Focus Catalog Search script for even better functionality!
 - ~~**[GNUTerryPratchett](/Scripts/GNUTerryPratchett.js)**~~
   - Adds a footer to any site that has `GNU Terry Pratchett` in its headers (specifically `x-clacks-overhead`). Read more [here](http://gnuterrypratchett.com/) and [here](https://xclacksoverhead.org/). Read about Terry [here](https://en.wikipedia.org/wiki/Terry_Pratchett).
   - Inspired by some addons that were supposed to notify about these headers in some way, that I could not get to work.
