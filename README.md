@@ -27,7 +27,8 @@ Click on the name of a script to be taken directly to the file! Files with a str
 - **[GoogleFocusSearchbarImagesVideos](/Scripts/GoogleFocusSearchbarImagesVideos.js)**
   - Adds the functionality of pressing `/` to focus the search bar in Image and Video searches, just like in the general "All" search.
   - Useful for quick search bar focusing while searching images or videos, in case you're used to using `/` like I am and don't feel like reaching for the mouse or furiously spamming (Shift +) Tab.
-- **[GoogleImagesAddGameplay](/Scripts/GoogleImagesAddGameplay.js)**
+- ~~**[GoogleImagesAddGameplay](/Scripts/GoogleImagesAddGameplay.js)**~~
+  - **_Currently not functional due to a redesign of the results header!!_**
   - Adds a button to add " gameplay" to a Google image search. Does nothing if the query already ends with " gameplay".
   - Useful for that annoying fact that videogame image searches tend to show box art.
 - **[GoToExplainXKCD](/Scripts/GoToExplainXKCD.js)**
